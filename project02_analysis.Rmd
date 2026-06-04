@@ -10,8 +10,6 @@ output:
 
 # Project 2: RNASeq Analysis
 
-Name: Iris Lee  
-ID: U05303694
 
 ## Introduction
 
